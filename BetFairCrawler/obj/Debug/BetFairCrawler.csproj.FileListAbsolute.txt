@@ -12,3 +12,5 @@ c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFai
 c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\obj\Debug\BetFairCrawler.exe
 c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\obj\Debug\BetFairCrawler.pdb
 c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\obj\Debug\BetFairCrawler.csprojResolveAssemblyReference.cache
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\Newtonsoft.Json.dll
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\Newtonsoft.Json.xml

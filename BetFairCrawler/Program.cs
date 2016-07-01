@@ -1,4 +1,5 @@
 ﻿using Fiddler;
+using Newtonsoft.Json;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
@@ -29,8 +30,12 @@ namespace BetFairCrawler
 
                 if (!targetSession.RequestHeaders["Content-Type"].Contains("json")) return;
 
+                var responseBody = targetSession.GetResponseBodyAsString();
+                var responseBodyDeserialized = JsonConvert.DeserializeObject(responseBody);
+
+                var responseBodySerialized = JsonConvert.SerializeObject(responseBodyDeserialized, Formatting.Indented);
                 Console.WriteLine("Response body is {0}",
-                                  targetSession.GetResponseBodyAsString());
+                                  responseBodySerialized);
             };
 
 

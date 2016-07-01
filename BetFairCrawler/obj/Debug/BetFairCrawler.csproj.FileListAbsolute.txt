@@ -1,0 +1,14 @@
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\BetFairCrawler.exe
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\BetFairCrawler.pdb
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\BasicFormatsForCore.dll
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\BCMakeCert.dll
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\CertMaker.dll
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\FiddlerCore4.dll
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\WebDriver.dll
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\WebDriver.Support.dll
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\FiddlerCore4.xml
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\WebDriver.xml
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\bin\Debug\WebDriver.Support.xml
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\obj\Debug\BetFairCrawler.exe
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\obj\Debug\BetFairCrawler.pdb
+c:\Users\thao.dinh35\Documents\Visual Studio 2013\Projects\BetfairCrawler\BetFairCrawler\obj\Debug\BetFairCrawler.csprojResolveAssemblyReference.cache
